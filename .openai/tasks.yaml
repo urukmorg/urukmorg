@@ -1,3 +1,0 @@
-- name: test-task
-  image: universal
-  entrypoint: python3 main.py
